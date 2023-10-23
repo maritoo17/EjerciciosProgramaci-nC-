@@ -1,3 +1,18 @@
 # ninja log v5
 0	706	7197804408454000	CMakeFiles/utilidadvariables.cpp.dir/utilidadvariables.cpp.obj	2ae6be1f74b789
 709	913	7197804410437935	utilidadvariables.cpp.exe	c071c255e9dd35b2
+5	1021	7197819335818997	CMakeFiles/utilidadvariables.cpp.dir/utilidadvariables.cpp.obj	2ae6be1f74b789
+6	697	7197819601010988	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+5	654	7197819991451370	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+654	819	7197819993050452	utilidadvariables.cpp.exe	d4eaebbf632f8b67
+3	605	7197820779281608	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+4	705	7197820940502745	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+706	856	7197820941971883	utilidadvariables.cpp.exe	d4eaebbf632f8b67
+3	666	7197821435510911	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+667	824	7197821437050037	utilidadvariables.cpp.exe	d4eaebbf632f8b67
+4	645	7197821794635901	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+645	817	7197821796284951	utilidadvariables.cpp.exe	d4eaebbf632f8b67
+3	636	7197822146815750	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+637	813	7197822148514782	utilidadvariables.cpp.exe	d4eaebbf632f8b67
+4	690	7197822554220292	CMakeFiles/utilidadvariables.cpp.dir/ambitovariables.cpp.obj	23f0b3c8d9d3e529
+691	870	7197822555988432	utilidadvariables.cpp.exe	d4eaebbf632f8b67
