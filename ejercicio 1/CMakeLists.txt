@@ -1,3 +1,4 @@
 add_executable(utilidadvariables.cpp
         utilidadvariables.cpp
-        ambitovariables.cpp)
+        ambitovariables.cpp
+        tiposdatos.cpp)
