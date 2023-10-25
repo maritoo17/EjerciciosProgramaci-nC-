@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-    std::string nombre = "Juan";
+    std::string nombre = "Javi";
     std::string& referencia = nombre;
 
     std::cout << " Nombre original: " << nombre << std::endl;
